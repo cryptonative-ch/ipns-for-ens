@@ -1,6 +1,6 @@
 # content-hash for ipns-ns
 
-This is a hack for encoding content hashe for ipns as specified in the [EIP 1577](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1577.md)
+This is a hack for encoding content path for ipns as specified in the [EIP 1577](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1577.md)
 
 Based on https://github.com/pldespaigne/content-hash and https://github.com/ensdomains/ui/
 
@@ -11,15 +11,15 @@ Made for [DXdao](https://dxdao.eth.link/#/)
 ## Install
 
 **npm** :
-	```bash
-	$> npm install content-hash
-	$> npm install bs58
-	```
+```bash
+$> npm install content-hash
+$> npm install bs58
+```
 
 or:
-	```bash
-    $> install.sh
-	```
+```bash
+$> install.sh
+```
 
 ## Run
 
